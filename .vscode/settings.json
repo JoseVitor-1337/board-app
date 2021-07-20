@@ -1,0 +1,9 @@
+{
+	"window.zoomLevel": 0,
+	"editor.fontSize": 14,
+	"editor.wordWrap": "on",
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	}
+}
