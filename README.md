@@ -6,8 +6,6 @@
 
 ### Features and concepts used
 
-<span style="font-size:1.3em">Web</span>.
-
 - React.js
 - Next.js
 - React Hooks
