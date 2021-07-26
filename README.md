@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-Congratulations! the will be running on [http://locahost:5000](http://locahost:5000)
+Congratulations! the will be running on [http://localhost:5000](http://localhost:5000)
 
 
 
