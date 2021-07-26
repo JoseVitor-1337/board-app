@@ -2,6 +2,8 @@
 
 ### Learning NextJS with typescript using github API and google firebase
 
+<br />
+
 ### Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
@@ -27,15 +29,12 @@
 Open you Terminal and run this commands:
 
 ```
-git clone https://github.com/JoseVitor-1337/aircnc.git
-```
-```
-cd aircnc
-```
-```
+git clone https://github.com/JoseVitor-1337/board-app.git
+
+cd board-app
+
 npm install
-```
-```
+
 npm run dev
 ```
 
