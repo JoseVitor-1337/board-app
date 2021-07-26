@@ -28,11 +28,24 @@ Open you Terminal and run this commands:
 
 ```
 git clone https://github.com/JoseVitor-1337/aircnc.git
-
-cd aircnc
-
-npm install
-
-npm run dev
-
 ```
+```
+cd aircnc
+```
+```
+npm install
+```
+```
+npm run dev
+```
+
+Congratulations! the will be running on http://locahost:5000
+
+
+
+
+
+
+
+
+
