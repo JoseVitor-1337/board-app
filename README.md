@@ -24,6 +24,8 @@
 
 ### Follow theses steps
 
+<br />
+
 Open you Terminal and run this commands:
 
 ```
