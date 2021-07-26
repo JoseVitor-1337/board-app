@@ -16,13 +16,11 @@
 
 ## How i start this site?
 
-<br />
 
 > Need have **npm** installed [Go Here to install](https://nodejs.org/en/)
 
 > Need have **git** installed [Go Here to install](https://git-scm.com/downloads)
 
-<br />
 
 ## Follow theses steps
 
