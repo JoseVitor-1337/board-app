@@ -6,7 +6,7 @@
 
 ### Features and concepts used
 
-<span style="font-size:1.1em">Web</span>.
+<span style="font-size:1.3em">Web</span>.
 
 - React.js
 - Next.js
@@ -14,7 +14,7 @@
 - Typescript
 - Firebase
 
-## How i start this site?
+### How i start this site?
 
 <br />
 
@@ -24,7 +24,7 @@
 
 <br />
 
-## Follow theses steps
+### Follow theses steps
 
 Open you Terminal and run this commands:
 
