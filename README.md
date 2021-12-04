@@ -1,9 +1,5 @@
 # Board App
 
-### Learning NextJS with typescript using github API and google firebase
-
-<br />
-
 ### Features and concepts used
 
 - React.js
